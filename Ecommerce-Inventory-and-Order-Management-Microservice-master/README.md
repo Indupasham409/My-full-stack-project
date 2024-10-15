@@ -24,17 +24,17 @@ API for POST - localhost:8080/add/account
 --------
 ````
 {
-	"accountId":"#140LOWP",
+	"accountId":"#23467",
 	"userProfileId":"account1",
 	"address":{
-		"lineNumber1":"108, ISTHARA",
-		"lineNumber2":"Sri Ram nagar, Kondapur",
+		"lineNumber1":"108, hasthinapur",
+		"lineNumber2":"srinivasapuram, Hyderabad",
 		"city":"Hyderabad",
 		"state":"Telangana",
 		"country":"IN",
-		"postalCode":"500084"
+		"postalCode":"500070"
 	},
-	"taxationNumber": "BXIPR3475W",
+	"taxationNumber": ".......",
 	"accountConfig": {
 		"couponsAllowed":true,
 		"allowedCoupons":["LEARNED","VEDANTU30"],
@@ -43,8 +43,8 @@ API for POST - localhost:8080/add/account
 		"deliveryAllowed":true
 	},
 	"userDetails":{
-		"emailAddress":"sauravroy.eee@gmail.com",
-		"phoneNumber":"9585386951",
+		"emailAddress":"indupasham10@gmail.com",
+		"phoneNumber":"....",
 		"phoneCode":"+91"
 	},
 	"countryCode":"IN"
@@ -60,14 +60,14 @@ API for POST - localhost:8080/add/account
 	"accountId":"#140ABC",
 	"userProfileId":"account2",
 	"address":{
-		"lineNumber1":"8,OYO Life",
-		"lineNumber2":"Q city, Nanakramguda",
+		"lineNumber1":"vansathalipuram",
+		"lineNumber2":"hyderabad",
 		"city":"Hyderabad",
 		"state":"Telangana",
 		"country":"IN",
-		"postalCode":"500032"
+		"postalCode":"500070"
 	},
-	"taxationNumber": "BXIPR3831R",
+	"taxationNumber": "........",
 	"accountConfig": {
 		"couponsAllowed":true,
 		"allowedCoupons":["TEACHINDIA","GROWINDIA"],
@@ -76,8 +76,8 @@ API for POST - localhost:8080/add/account
 		"deliveryAllowed":true
 	},
 	"userDetails":{
-		"emailAddress":"sauravroy.eee@gmail.com",
-		"phoneNumber":"9585386951",
+		"emailAddress":"indupasham10@gmail.com",
+		"phoneNumber":"........",
 		"phoneCode":"+91"
 	},
 	"countryCode":"IN"
@@ -99,12 +99,12 @@ API for POST - localhost:8080/add/account
 	"itemName":"Acrylic Paint",
 	"manufacturer":"Color Party",
 	"manufactureLocation":{
-		"lineNumber1":"William Sons",
-		"lineNumber2":"2 nd Square, 3rd Stree",
-		"city":"Texas",
-		"state":"Chicago",
+		"lineNumber1":"sanjose",
+		"lineNumber2":"...",
+		"city":"Sanjose",
+		"state":"California",
 		"country":"US",
-		"postalCode":"180032"
+		"postalCode":"..."
 	},
 	"basePrice":300.0,
 	"maxDiscountAllowed":50.0,
@@ -137,12 +137,12 @@ API for POST - localhost:8080/add/account
 	"itemName":"KeyBoard",
 	"manufacturer":"InfoSoft",
 	"manufactureLocation":{
-		"lineNumber1":"Chandi Market",
-		"lineNumber2":"Nukkad Char Rasta",
-		"city":"Haridwar",
-		"state":"Uttar Pradesh",
+		"lineNumber1":"......",
+		"lineNumber2":"...",
+		"city":"...",
+		"state":"....",
 		"country":"IN",
-		"postalCode":"300078"
+		"postalCode":"..."
 	},
 	"basePrice":700.0,
 	"maxDiscountAllowed":50.0,
